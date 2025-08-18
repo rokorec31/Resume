@@ -11,7 +11,7 @@
 
 ## Professional Summary
 
-Cross-Platform Software Engineer & Team Leader with 12 years of experience developing mobile, desktop, and backend solutions for iOS, Android, Windows, and macOS. Specializes in IoT systems, hardware communication (Bluetooth, USB HID), RESTful API development, and backend architecture. Proven ability to lead cross-functional teams, set technical standards, and deliver scalable, maintainable solutions.
+Cross-Platform Software Engineer with 12 years of experience delivering mobile (iOS, Android), desktop (Windows, macOS), and backend solutions. Specialized in IoT systems, hardware communication (Bluetooth, USB HID), and RESTful API development with scalable backend architectures. Proven track record of leading cross-functional teams, defining technical standards, and building reliable, maintainable products.
 
 ## Experience
 
@@ -23,7 +23,6 @@ Cross-Platform Software Engineer & Team Leader with 12 years of experience devel
 - Leading the software department, managing cross-platform projects across mobile, desktop, and backend.
 - Setting development roadmap, coding standards, and team processes to align technical solutions with business goals.
 
-
 **Deputy Software Manager**
   : **August 2023 - July 2025**
 
@@ -33,16 +32,13 @@ Cross-Platform Software Engineer & Team Leader with 12 years of experience devel
 - Established USB HID protocol standards ensuring seamless device communication.
 - Collaborated with the team on-site in France and Spain to resolve product issues and strengthen customer relationships.
 
-
 **Senior Software Engineer**
   : **September 2017 - August 2023**
 
 - Developed cross-platform IoT management apps for iOS & Android.
 - Designed RESTful APIs with MQTT/WebSocket integration for real-time device communication.
-- Developed Bluetooth BLE mesh networking application for IoT device provisioning and configuration
-- Created BLE mesh networking app for device provisioning and configuration.
+- Developed Bluetooth BLE mesh networking application for IoT device provisioning and configuration.
 - Built a Z-Wave SDK for smart home control, integrated into commercial applications.
-
 
 ### AthenTek international Inc. | Taipei, Taiwan
 
@@ -58,8 +54,6 @@ Cross-Platform Software Engineer & Team Leader with 12 years of experience devel
   : **August 2013 - May 2016**
 
 - Developed frontend/backend systems for Taiwan Ministry of Education’s Student Health Information System.
-- Generated annual statistical health reports supporting educational policy analysis.
-
 
 ## Education
 
@@ -74,6 +68,13 @@ Nanhua University
 
 Nanhua University
   : Chiayi, Taiwan
+
+## Patents
+
+**United States Patent No. US 10,491,852 B1** 
+  : **Nov 2019**
+
+System and Method for Activating Widget Based on Sound Volume Adjustment
 
 ## Skills
 

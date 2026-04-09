@@ -1,7 +1,7 @@
-# Console One
+# Console One - Project Portfolio
 
 ## Project Overview
-Console One is a frontend control panel designed specifically for Smart Docking Stations. This system provides device status monitoring, real-time call management, audio recording management, and hotkey customization, allowing users to effortlessly manage and configure their docking station devices through an intuitive web interface.
+**Console One** is a frontend control panel designed specifically for Smart Docking Stations. This system provides device status monitoring, real-time call management, audio recording management, and hotkey customization, allowing users to effortlessly manage and configure their docking station devices through an intuitive web interface.
 
 **Built with:**
 
